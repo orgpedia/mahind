@@ -131,6 +131,10 @@ GOVERNMENT OF MAHARASHTRA
 REGISTRATION OF AUTHORISATION OF
 CHARTERED ELECTRICAL SAFETY ENGINEER
 Registration No. CESE/
+----------------------------------------
+| Recent passport size colour photograph |
+| Signature |
+----------------------------------------
 Shri/Kum/Smt. has passed
 the qualifying examination of Chartered Electrical Safety Engineer held at on
 (Roll No. ) is hereby, granted authorization as CHARTERED
@@ -146,6 +150,10 @@ GOVERNMENT OF MAHARASHTRA
 REGISTRATION OF AUTHORISATION OF CHARTERED
 ELECTRICAL SAFETY ENGINEER
 Registration No. CESE/
+----------------------------------------
+| Recent passport size colour photograph |
+| Signature |
+----------------------------------------
 Shri/Kum/Smt. having
 satisfied that his/her qualification entitled him/her to exemption from taking the prescribed
 examination of Chartered Electrical Safety Engineer is, hereby granted authorization as
@@ -180,6 +188,12 @@ To, Name and Address of the Supplier/ Owner/ Consumer
 Sub: Acceptance of Self-Certification Report submitted by Name of the Supplier/ Owner/ Consumer for installations at installation address of the Supplier/ Owner/ Consumer.
 Ref: Self-Certification Report dated submitted by Name of the Supplier/ Owner/ Consumer
 (Name of the Supplier/ Owner/ Consumer)_has submitted self-certification report under regulation 30/43 for installation address of the Supplier/ Owner/ Consumer and requested for acceptance of the same by this office. The list of equpiments are as given below:
+--------------------------------------------------------------------
+| Sr. No. | Name of the Equipment with Voltage, Capacity etc. | Quantity |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+--------------------------------------------------------------------
 It is hereby said that self-certification report submitted by Name of the Supplier/
 Owner/ Consumer for installations at installation address of the Supplier/ Owner/
 Consumer under regulation 30/43 is found to be generally in order. Hence self
@@ -203,6 +217,11 @@ Vide letter under referance Name of the Supplier/ Owner/ Consumer
 has submitted self-certification report under regulation 30/43 for installation address of the
 Supplier/ Owner/ Consumer and requested for acceptance of the same by this office.
 While scrutinizing the defects found are given below:
+----------------------------------------------------------
+| Sr. No. | Regulation | Description of defects | Recommendation |
+|  |  |  |  |
+|  |  |  |  |
+----------------------------------------------------------
 Hence self-certification report submitted by Name of the Supplier/ Owner/
 Consumer for installations at installation address of the Supplier/ Owner/ Consumer under
 regulation 30/43 is hereby rejected for rectification of defects as recommended above.

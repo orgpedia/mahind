@@ -18,9 +18,23 @@
 ८,८१,००,०००/- (रू. आठ कोटी एक्केऐंशी लाख फक्त) इतक्या खर्चास कार्योत्तर प्रशासकीय मान्यता देण्यात येत आहे. सदर प्रकल्पाकरीता प्राप्त निविदेचा तपशील पुढीलप्रमाणे आहे :
 # Page 2
 शासन निर्णय क्रमांकः बीयुडी-२०१७/प्र क्र ३२२/ऊर्जा-७
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| No. | Item | Action/Justific action | Cost Implication |
+| 1 | Basic Cost of 1 MWp CERC Guidelines | As per said guidelines basis cost goes beyond 6.00 Cr. | 605.85 |
+| 2 | Capacity Augmentation to meet Generation Guarantee | 1. Tender calls for generation guarantee of 15,00,000 units even of the end of 11 years of O&M period 2. In order to meet said Gurantee basis DC side capacity of 1 MWp needs to be increased by 12% 3. This itself results in major cost implication. | 51.50 |
+| 3 | Operation & Maintenance of 11 Years (free O & M for First Year+ Years) | 1. Manpower cost to maintain solar PV project of 1 MW of location like pune which is metro city, that too for period of 11 Years is on very higher. Which in furn foost up the cost of project. | 85.00 |
+| 4 | HT Transmission Line for 3 KMS | Tender calls for H1 Transmission line for 3 KMs to laid through punes most crow heavy traffic area. | 28.65 |
+| 5 | Cost of Spares | At the end of 5 Years of O&M, Plant for heavy maintenance which comes on 1.2% of CAPEX price of complete project per Yea. Thereafter YoY increase of 2% | 60.00 |
+| 6 | Module Mounting Structure | MMS With Galvanization thickness of 120 Micron resulting into huge increase in basic weight of structure which is 70 ton against 40 Ton | 22.00 |
+| L | Other silent features of Project which resulting into price hike are as | 1) Compound wall & allied barbed wire Fencing along periphery of Solar PV Plant - which is Five ackers of Land 2) RRC Control Room instead of prefabricated. 3) Hardware for MMS is been asked with ss304 4) Cable sizes with 185 sq mm instead of 95 & 1205 mm which is standard practice in solar sector | 15.00 |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ ४ पैकी २
 # Page 3
 शासन निर्णय क्रमांकः बीयुडी-२०१७/प्र क्र ३२२/ऊर्जा-७
+--------------------------------------------------------------------------------
+|  |  | 5) Central inverter of 2 Nos of 500 Kwp. instead of 1000Kw single inverter. |  |
+| Total Cost of projects works out to be | Rs. 868.00 |
+--------------------------------------------------------------------------------
 निविदा अंतिम करताना वाटाघाटी करून सदर निविदेची रक्कम तीन लाखाने कमी करून रू. ८.६५ कोटी एवढी निश्चित करण्यात आली आहे. महाराष्ट्र ऊर्जा विकास अभिकरण, पुणे यांची सल्लागार शुल्क रू.
 ९.४१ लाख व प्रशासकीय खर्च रू.७.१८ लाख एवढा आहे. असा एकूण रू. ८८१.५९ लाख एवढा खर्च सदर प्रकल्पावर झालेला आहे.
 २. याबाबतचा खर्च मागणी क्रमांक के-६,२८१० नवीन व नवीकरणीय ऊर्जा साधने, ६०, इतर ८०० इतर खर्च (००) (०५) महाराष्ट्र ऊर्जा विकास निधीतून भागविलेला खर्च (कार्यक्रम) ३१, सहायक अनुदाने (वेतनेत्तर ) ५०, इतर खर्च (२८१० ०१२३) या लेखाशिर्षाखाली सन २०१८-१९ या आर्थिक वर्षासाठी वितरित केलेल्या निधीतील बचतीमधून भागविण्यात यावा व पुर्नवितरण करण्याबाबतचा प्रस्ताव या विभागास सादर करण्यात यावा.

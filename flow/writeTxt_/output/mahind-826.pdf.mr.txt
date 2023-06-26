@@ -14,8 +14,25 @@ In view of above Government of Maharashtra has taken a decision to constitute Ta
 Force under the chairmanship of Chief Secretary, Government of Maharashtra.
 RESOLUTION
 To monitor the exercise of Reducing Regulatory Compliance Burden, a Task Force under the chairmanship of Chief Secretary, Government of Maharashtra is constituted as under:
+-----------------------------------------------------------------------------------------------
+| Sr. No. | Designation | Designation in Task Force |
+| 1 | Chief Secretary, Government of Maharashtra. | Chairman |
+| 2 | Additional Chief Secretary (Home), Home Department, Government of Maharashtra. | Member |
+| 3 | Additional Chief Secretary (Finance), Finance Department, Government of Maharashtra. | Member |
+| 4 | Additional Chief Secretary (Transport), Home Department, Government of Maharashtra. | Member |
+| 5 | Additional Chief Secretary (Revenue), Government of Maharashtra. | Member |
+-----------------------------------------------------------------------------------------------
 # Page 2
 Government Resolution No.: E-Biz-2020/C.R.90/Ind-8
+----------------------------------------------------------------------------------------------------------------------
+| 6 | Additional Chief Secretary (Industries), Industries, Energy & Labour Department, Government of Maharashtra. | Member |
+| 7 | Principal Secretary (Energy), Government of Maharashtra. | Member |
+| 8 | Principal Secretary (Labour), Government of Maharashtra. | Member |
+| 9 | Principal Secretary (State Excise), Government of Maharashtra. | Member |
+| 10 | Principal Secretary (Urban Development-1), Government of Maharashtra. | Member |
+| 11 | Principal Secretary (Urban Developemnt-2), Government of Maharashtra. | Member |
+| 12 | Development Commissioner, Directorate of Industries. | Member Secretary & State Nodal Officer |
+----------------------------------------------------------------------------------------------------------------------
 Scope of work of Task Force:
 1) To monitor the exercise of minimizing compliance burden on business and citizens.
 2) To instruct the concerned administrative departments to adhere to timelines mentioned by DPIIT from time to time for minimizing compliance burden.

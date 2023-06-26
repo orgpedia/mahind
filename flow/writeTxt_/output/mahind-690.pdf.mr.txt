@@ -18,6 +18,12 @@ Central Inspection System was constituted vide Government Resolution, Department
 Corrigendum:
 1. In the aforesaid Government Resolution date 29th August, 2017, the subject of Government resolution shall read as, "Constitution of Central Inspection System to integrate the independent inspection system of the Labour Commissionerate, DISH, DSB, MLWB & MPCB." Directorate of Steam Boilers is included as Member in the State Level Planning Committee (SLPC) and Joint Monitoring Committee (JMC).
 2. In the Government Resolution date 29th August, 2017, under the heading "Risk Based Inspection Procedure for various departments", the risk based schedule of Directorate of Steam Boilers shall be as follows - e. Directorate of Steam Boilers (DSB)
+---------------------------------------------------------------------------------------------------------
+| Category | Risk Based Criteria | Type of Boilers Covered | Frequency of Inspection |
+| A | Low Risk | Coil Type Small Industrial Boilers. | Once in 5 Year |
+| B | Medium Risk | Coil Type Boilers upto 17.5 kg/cm² Approved Working Pressure & Economisers | Once in 4 Year |
+| C | High Risk | All other Boilers other than A & B above. | Once in 3 Year |
+---------------------------------------------------------------------------------------------------------
 # Page 2
 Government Corrigendum No.: Misc-2017/C.R.No.83/Labour-9
 5. In Annexure I of the Government Resolution date 29th August, 2017, for Directorate of Steam Boilers, the Act referred is as stated below 1. The Boilers Act, 1923
