@@ -1,0 +1,46 @@
+mahind: 3,562 GRs read (0 set aside, left out); beside mahbah (1,595 GRs), mahdis (169 GRs), mahtrib (4,346 GRs)
+
+each cell: how many, and their share of the column's GRs (or of what the measure says, [of ...])
+
+                                                         all   mahbah     before 2010   mahbah       2010-2019   mahbah       from 2020   mahbah
+GRs                                                    3,562                        1                    1,671                    1,890         
+pages                                                 11,981                        2                    5,371                    6,608         
+pages read by OCR                                          0                        0                        0                        0         
+
+scans (a page with no text layer)                    0 (0%)      0.2%         0 (0%)         -         0 (0%)         -         0 (0%)      0.2%
+legacy font or hidden text, read by OCR              0 (0%)      1.3%         0 (0%)         -         0 (0%)         -         0 (0%)      1.3%
+pages read by OCR [of pages]                         0 (0%)      1.2%         0 (0%)         -         0 (0%)         -         0 (0%)      1.2%
+words a page (median)                                   242       248            266         -            229         -            253       248
+under 30 words a page                                0 (0%)        0%         0 (0%)         -         0 (0%)         -         0 (0%)        0%
+characters not converted                          91 (2.6%)        2%         0 (0%)         -      25 (1.5%)         -      66 (3.5%)        2%
+no subject                                        11 (0.3%)      0.1%         0 (0%)         -       6 (0.4%)         -       5 (0.3%)      0.1%
+no order number                                   23 (0.6%)      0.1%         0 (0%)         -       8 (0.5%)         -      15 (0.8%)      0.1%
+no order kind                                     45 (1.3%)      0.3%         0 (0%)         -      29 (1.7%)         -      16 (0.8%)      0.3%
+no issue date                                    203 (5.7%)      3.3%       1 (100%)!        -     108 (6.5%)         -        94 (5%)      3.3%
+no GR code                                        91 (2.6%)      0.8%       1 (100%)!        -      49 (2.9%)         -      41 (2.2%)      0.8%
+no issue date, nor the portal's                      0 (0%)        0%         0 (0%)         -         0 (0%)         -         0 (0%)        0%
+no decision section                               52 (1.5%)      0.4%         0 (0%)         -      28 (1.7%)         -      24 (1.3%)      0.4%
+no masthead section                               15 (0.4%)        0%         0 (0%)         -      10 (0.6%)         -       5 (0.3%)        0%
+no signature section                              89 (2.5%)      0.9%         0 (0%)         -      63 (3.8%)         -      26 (1.4%)      0.9%
+a section found without its heading              345 (9.7%)      8.7%       1 (100%)!        -    189 (11.3%)         -     155 (8.2%)      8.7%
+with tables                                   1,911 (53.6%)     76.1%         0 (0%)         -    793 (47.5%)         -  1,118 (59.2%)     76.1%
+a table cell spilling                             56 (1.6%)      1.9%         0 (0%)         -        16 (1%)         -      40 (2.1%)      1.9%
+a scan's table not kept                              0 (0%)      0.1%         0 (0%)         -         0 (0%)         -         0 (0%)      0.1%
+flagged: a sentence cut in two                  696 (19.5%)     20.3%         0 (0%)         -      300 (18%)         -      396 (21%)     20.3%
+flagged: a table to check                       485 (13.6%)      9.1%         0 (0%)         -    247 (14.8%)         -    238 (12.6%)      9.1%
+flagged: list lines read as one paragraph         19 (0.5%)      0.8%       1 (100%)!        -      10 (0.6%)         -       8 (0.4%)      0.8%
+flagged: suspect characters                     716 (20.1%)     19.4%         0 (0%)         -    409 (24.5%)         -    307 (16.2%)     19.4%
+issue date = portal's date (of those read)    3,334 (99.3%)     99.6%              -         -  1,556 (99.6%)         -    1,778 (99%)     99.6%
+GR code = portal's code (of those read)                   -         -              -         -              -         -              -         -
+
+! worse than mahbah, mahdis, mahtrib by 5 points or more
+
+the GRs behind each flag (to find the cause):
+  no issue date: 203 GRs, review/setup/scorecard/no_issue_date.tsv
+  no GR code: 91 GRs, review/setup/scorecard/no_gr_code.tsv
+  a section found without its heading: 345 GRs, review/setup/scorecard/a_section_found_without_its_heading.tsv
+  flagged: list lines read as one paragraph: 19 GRs, review/setup/scorecard/flagged_list_lines_read_as_one_paragraph.tsv
+  issue date differs from the portal's: 24 GRs (8 within a month), review/setup/scorecard/dates.tsv
+
+20 GRs for a person to mark (ok: y/n; note: what is wrong): review/setup/samples.tsv
+for a person to read: review/setup/scorecard.html

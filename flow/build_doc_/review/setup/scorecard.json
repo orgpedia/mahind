@@ -1,0 +1,747 @@
+{
+ "dept": "mahind",
+ "grs": 3562,
+ "set_aside": 0,
+ "date": "2026-11-25",
+ "run": {
+  "listed": 3562,
+  "to_read": 3562,
+  "read": 3562,
+  "set_aside": 0,
+  "failed": 0,
+  "excluded": 0,
+  "not_read": 0
+ },
+ "numbers": {
+  "GRs": {
+   "all": 3562,
+   "before 2010": 1,
+   "2010-2019": 1671,
+   "from 2020": 1890
+  },
+  "scans (a page with no text layer)": {
+   "all": 0.0,
+   "before 2010": 0.0,
+   "2010-2019": 0.0,
+   "from 2020": 0.0
+  },
+  "legacy font or hidden text, read by OCR": {
+   "all": 0.0,
+   "before 2010": 0.0,
+   "2010-2019": 0.0,
+   "from 2020": 0.0
+  },
+  "pages read by OCR": {
+   "all": 0.0,
+   "before 2010": 0.0,
+   "2010-2019": 0.0,
+   "from 2020": 0.0
+  },
+  "words a page (median)": {
+   "all": 242,
+   "before 2010": 266,
+   "2010-2019": 229,
+   "from 2020": 253
+  },
+  "under 30 words a page": {
+   "all": 0.0,
+   "before 2010": 0.0,
+   "2010-2019": 0.0,
+   "from 2020": 0.0
+  },
+  "characters not converted": {
+   "all": 2.6,
+   "before 2010": 0.0,
+   "2010-2019": 1.5,
+   "from 2020": 3.5
+  },
+  "no subject": {
+   "all": 0.3,
+   "before 2010": 0.0,
+   "2010-2019": 0.4,
+   "from 2020": 0.3
+  },
+  "no order number": {
+   "all": 0.6,
+   "before 2010": 0.0,
+   "2010-2019": 0.5,
+   "from 2020": 0.8
+  },
+  "no order kind": {
+   "all": 1.3,
+   "before 2010": 0.0,
+   "2010-2019": 1.7,
+   "from 2020": 0.8
+  },
+  "no issue date": {
+   "all": 5.7,
+   "before 2010": 100.0,
+   "2010-2019": 6.5,
+   "from 2020": 5.0
+  },
+  "no GR code": {
+   "all": 2.6,
+   "before 2010": 100.0,
+   "2010-2019": 2.9,
+   "from 2020": 2.2
+  },
+  "no issue date, nor the portal's": {
+   "all": 0.0,
+   "before 2010": 0.0,
+   "2010-2019": 0.0,
+   "from 2020": 0.0
+  },
+  "no decision section": {
+   "all": 1.5,
+   "before 2010": 0.0,
+   "2010-2019": 1.7,
+   "from 2020": 1.3
+  },
+  "no masthead section": {
+   "all": 0.4,
+   "before 2010": 0.0,
+   "2010-2019": 0.6,
+   "from 2020": 0.3
+  },
+  "no signature section": {
+   "all": 2.5,
+   "before 2010": 0.0,
+   "2010-2019": 3.8,
+   "from 2020": 1.4
+  },
+  "a section found without its heading": {
+   "all": 9.7,
+   "before 2010": 100.0,
+   "2010-2019": 11.3,
+   "from 2020": 8.2
+  },
+  "with tables": {
+   "all": 53.6,
+   "before 2010": 0.0,
+   "2010-2019": 47.5,
+   "from 2020": 59.2
+  },
+  "a table cell spilling": {
+   "all": 1.6,
+   "before 2010": 0.0,
+   "2010-2019": 1.0,
+   "from 2020": 2.1
+  },
+  "a scan's table not kept": {
+   "all": 0.0,
+   "before 2010": 0.0,
+   "2010-2019": 0.0,
+   "from 2020": 0.0
+  },
+  "flagged: a sentence cut in two": {
+   "all": 19.5,
+   "before 2010": 0.0,
+   "2010-2019": 18.0,
+   "from 2020": 21.0
+  },
+  "flagged: a table to check": {
+   "all": 13.6,
+   "before 2010": 0.0,
+   "2010-2019": 14.8,
+   "from 2020": 12.6
+  },
+  "flagged: list lines read as one paragraph": {
+   "all": 0.5,
+   "before 2010": 100.0,
+   "2010-2019": 0.6,
+   "from 2020": 0.4
+  },
+  "flagged: suspect characters": {
+   "all": 20.1,
+   "before 2010": 0.0,
+   "2010-2019": 24.5,
+   "from 2020": 16.2
+  },
+  "issue date = portal's date (of those read)": {
+   "all": 99.3,
+   "before 2010": null,
+   "2010-2019": 99.6,
+   "from 2020": 99.0
+  },
+  "GR code = portal's code (of those read)": {
+   "all": null,
+   "before 2010": null,
+   "2010-2019": null,
+   "from 2020": null
+  }
+ },
+ "tallies": {
+  "GRs": {
+   "all": null,
+   "before 2010": null,
+   "2010-2019": null,
+   "from 2020": null
+  },
+  "scans (a page with no text layer)": {
+   "all": [
+    0,
+    3562
+   ],
+   "before 2010": [
+    0,
+    1
+   ],
+   "2010-2019": [
+    0,
+    1671
+   ],
+   "from 2020": [
+    0,
+    1890
+   ]
+  },
+  "legacy font or hidden text, read by OCR": {
+   "all": [
+    0,
+    3562
+   ],
+   "before 2010": [
+    0,
+    1
+   ],
+   "2010-2019": [
+    0,
+    1671
+   ],
+   "from 2020": [
+    0,
+    1890
+   ]
+  },
+  "pages read by OCR": {
+   "all": [
+    0,
+    11981
+   ],
+   "before 2010": [
+    0,
+    2
+   ],
+   "2010-2019": [
+    0,
+    5371
+   ],
+   "from 2020": [
+    0,
+    6608
+   ]
+  },
+  "words a page (median)": {
+   "all": null,
+   "before 2010": null,
+   "2010-2019": null,
+   "from 2020": null
+  },
+  "under 30 words a page": {
+   "all": [
+    0,
+    3562
+   ],
+   "before 2010": [
+    0,
+    1
+   ],
+   "2010-2019": [
+    0,
+    1671
+   ],
+   "from 2020": [
+    0,
+    1890
+   ]
+  },
+  "characters not converted": {
+   "all": [
+    91,
+    3562
+   ],
+   "before 2010": [
+    0,
+    1
+   ],
+   "2010-2019": [
+    25,
+    1671
+   ],
+   "from 2020": [
+    66,
+    1890
+   ]
+  },
+  "no subject": {
+   "all": [
+    11,
+    3562
+   ],
+   "before 2010": [
+    0,
+    1
+   ],
+   "2010-2019": [
+    6,
+    1671
+   ],
+   "from 2020": [
+    5,
+    1890
+   ]
+  },
+  "no order number": {
+   "all": [
+    23,
+    3562
+   ],
+   "before 2010": [
+    0,
+    1
+   ],
+   "2010-2019": [
+    8,
+    1671
+   ],
+   "from 2020": [
+    15,
+    1890
+   ]
+  },
+  "no order kind": {
+   "all": [
+    45,
+    3562
+   ],
+   "before 2010": [
+    0,
+    1
+   ],
+   "2010-2019": [
+    29,
+    1671
+   ],
+   "from 2020": [
+    16,
+    1890
+   ]
+  },
+  "no issue date": {
+   "all": [
+    203,
+    3562
+   ],
+   "before 2010": [
+    1,
+    1
+   ],
+   "2010-2019": [
+    108,
+    1671
+   ],
+   "from 2020": [
+    94,
+    1890
+   ]
+  },
+  "no GR code": {
+   "all": [
+    91,
+    3562
+   ],
+   "before 2010": [
+    1,
+    1
+   ],
+   "2010-2019": [
+    49,
+    1671
+   ],
+   "from 2020": [
+    41,
+    1890
+   ]
+  },
+  "no issue date, nor the portal's": {
+   "all": [
+    0,
+    3562
+   ],
+   "before 2010": [
+    0,
+    1
+   ],
+   "2010-2019": [
+    0,
+    1671
+   ],
+   "from 2020": [
+    0,
+    1890
+   ]
+  },
+  "no decision section": {
+   "all": [
+    52,
+    3562
+   ],
+   "before 2010": [
+    0,
+    1
+   ],
+   "2010-2019": [
+    28,
+    1671
+   ],
+   "from 2020": [
+    24,
+    1890
+   ]
+  },
+  "no masthead section": {
+   "all": [
+    15,
+    3562
+   ],
+   "before 2010": [
+    0,
+    1
+   ],
+   "2010-2019": [
+    10,
+    1671
+   ],
+   "from 2020": [
+    5,
+    1890
+   ]
+  },
+  "no signature section": {
+   "all": [
+    89,
+    3562
+   ],
+   "before 2010": [
+    0,
+    1
+   ],
+   "2010-2019": [
+    63,
+    1671
+   ],
+   "from 2020": [
+    26,
+    1890
+   ]
+  },
+  "a section found without its heading": {
+   "all": [
+    345,
+    3562
+   ],
+   "before 2010": [
+    1,
+    1
+   ],
+   "2010-2019": [
+    189,
+    1671
+   ],
+   "from 2020": [
+    155,
+    1890
+   ]
+  },
+  "with tables": {
+   "all": [
+    1911,
+    3562
+   ],
+   "before 2010": [
+    0,
+    1
+   ],
+   "2010-2019": [
+    793,
+    1671
+   ],
+   "from 2020": [
+    1118,
+    1890
+   ]
+  },
+  "a table cell spilling": {
+   "all": [
+    56,
+    3562
+   ],
+   "before 2010": [
+    0,
+    1
+   ],
+   "2010-2019": [
+    16,
+    1671
+   ],
+   "from 2020": [
+    40,
+    1890
+   ]
+  },
+  "a scan's table not kept": {
+   "all": [
+    0,
+    3562
+   ],
+   "before 2010": [
+    0,
+    1
+   ],
+   "2010-2019": [
+    0,
+    1671
+   ],
+   "from 2020": [
+    0,
+    1890
+   ]
+  },
+  "flagged: a sentence cut in two": {
+   "all": [
+    696,
+    3562
+   ],
+   "before 2010": [
+    0,
+    1
+   ],
+   "2010-2019": [
+    300,
+    1671
+   ],
+   "from 2020": [
+    396,
+    1890
+   ]
+  },
+  "flagged: a table to check": {
+   "all": [
+    485,
+    3562
+   ],
+   "before 2010": [
+    0,
+    1
+   ],
+   "2010-2019": [
+    247,
+    1671
+   ],
+   "from 2020": [
+    238,
+    1890
+   ]
+  },
+  "flagged: list lines read as one paragraph": {
+   "all": [
+    19,
+    3562
+   ],
+   "before 2010": [
+    1,
+    1
+   ],
+   "2010-2019": [
+    10,
+    1671
+   ],
+   "from 2020": [
+    8,
+    1890
+   ]
+  },
+  "flagged: suspect characters": {
+   "all": [
+    716,
+    3562
+   ],
+   "before 2010": [
+    0,
+    1
+   ],
+   "2010-2019": [
+    409,
+    1671
+   ],
+   "from 2020": [
+    307,
+    1890
+   ]
+  },
+  "issue date = portal's date (of those read)": {
+   "all": [
+    3334,
+    3358
+   ],
+   "before 2010": [
+    0,
+    0
+   ],
+   "2010-2019": [
+    1556,
+    1562
+   ],
+   "from 2020": [
+    1778,
+    1796
+   ]
+  },
+  "GR code = portal's code (of those read)": {
+   "all": [
+    0,
+    0
+   ],
+   "before 2010": [
+    0,
+    0
+   ],
+   "2010-2019": [
+    0,
+    0
+   ],
+   "from 2020": [
+    0,
+    0
+   ]
+  }
+ },
+ "issues": {
+  "core:table_column_empty": {
+   "step": "table_check",
+   "severity": "info",
+   "issues": 2627,
+   "share": 3.9,
+   "grs": 138
+  },
+  "core:section_inferred": {
+   "step": "role_check",
+   "severity": "info",
+   "issues": 388,
+   "share": 9.7,
+   "grs": 345
+  },
+  "core:table_review": {
+   "step": "block_check",
+   "severity": "info",
+   "issues": 843,
+   "share": 13.6,
+   "grs": 485
+  },
+  "core:role_missing": {
+   "step": "role_check",
+   "severity": "warning",
+   "issues": 392,
+   "share": 7.0,
+   "grs": 251
+  },
+  "core:text_unread": {
+   "step": "text",
+   "severity": "warning",
+   "issues": 185,
+   "share": 3.0,
+   "grs": 108
+  },
+  "core:text_suspect": {
+   "step": "text_check",
+   "severity": "info/warning",
+   "issues": 1061,
+   "share": 20.1,
+   "grs": 716
+  },
+  "core:block_unfinished": {
+   "step": "block_check",
+   "severity": "info",
+   "issues": 1747,
+   "share": 19.5,
+   "grs": 696
+  },
+  "core:text_broken_reph": {
+   "step": "text",
+   "severity": "warning",
+   "issues": 387,
+   "share": 4.4,
+   "grs": 156
+  },
+  "core:lines_run_together": {
+   "step": "block_check",
+   "severity": "info",
+   "issues": 19,
+   "share": 0.5,
+   "grs": 19
+  },
+  "core:table_total": {
+   "step": "table_check",
+   "severity": "warning",
+   "issues": 496,
+   "share": 4.2,
+   "grs": 150
+  },
+  "core:value_missing": {
+   "step": "role_check",
+   "severity": "warning",
+   "issues": 70,
+   "share": 2.0,
+   "grs": 70
+  },
+  "unipdf:no_converter": {
+   "step": "text",
+   "severity": "warning",
+   "issues": 150,
+   "share": 2.6,
+   "grs": 91
+  },
+  "core:date_order": {
+   "step": "role_check",
+   "severity": "warning",
+   "issues": 120,
+   "share": 3.4,
+   "grs": 120
+  },
+  "core:running_header": {
+   "step": "role_check",
+   "severity": "warning",
+   "issues": 107,
+   "share": 0.9,
+   "grs": 33
+  },
+  "core:marker_sequence": {
+   "step": "role_check",
+   "severity": "warning",
+   "issues": 99,
+   "share": 2.7,
+   "grs": 95
+  },
+  "core:cell_spill": {
+   "step": "table_check",
+   "severity": "warning",
+   "issues": 206,
+   "share": 1.6,
+   "grs": 56
+  },
+  "core:page_number": {
+   "step": "role_check",
+   "severity": "warning",
+   "issues": 22,
+   "share": 0.4,
+   "grs": 14
+  },
+  "core:section_missing": {
+   "step": "role_check",
+   "severity": "warning",
+   "issues": 15,
+   "share": 0.4,
+   "grs": 15
+  }
+ }
+}
